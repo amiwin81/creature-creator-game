@@ -1,5 +1,7 @@
 ﻿// Creature Creator - https://github.com/daniellochner/Creature-Creator
-// Copyright (c) Daniel Lochner
+// Copyright (b
+
+) Daniel Lochner
 
 using UnityEditor;
 
