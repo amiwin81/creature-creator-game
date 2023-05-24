@@ -26,7 +26,8 @@ ModelImporter:
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
-    bakeSimulation: 0
+    bakeSimulation: 1
+    
     resampleCurves: 1
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
@@ -45,7 +46,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties: [1
+    ]
     clipAnimations: []
     isReadable: 0
   meshes:
